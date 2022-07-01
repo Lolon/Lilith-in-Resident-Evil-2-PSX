@@ -11,7 +11,7 @@ This is a romhack for Resident Evil 2 for the PS1 that replaces Claire with Lili
 
   For this you'll need:
   - This mod! - [Download it here!](https://github.com/Lolon/Lilith-in-Resident-Evil-2-PSX/releases/tag/Release)
-  - A copy of the game! - You don't need me to tell you that you need to have your own disk copy of SLUS-00756 on hand and ripped onto your machine, but, to install this mod, you should have a .BIN and a .CUE file of the game on your PC. I'm not going to explain how to do this, there are a ton of good guides if you google it.
+  - A copy of the game! - To install this mod, you should have a .BIN and a .CUE file of Disk 2 of Resident Evil 2 Dual Shock Edition (US), also known as SLUS-00756, on your PC. I'm not going to explain how to rip your disk, there are a ton of good guides if you google it.
   - A PSX Emulator! - any will do, so take your pick! If you dont know where to start, [ePSXe](https://www.epsxe.com/) is a classic and easy to use, but lately I've been using [DuckStation](https://github.com/stenzek/duckstation). Your choice!
   - Delta Patcher - a great patching tool that this romhack uses! It comes with the mod when you download, isn't that lovely! (if you need though, you can download it [here](https://www.romhacking.net/utilities/704/)
   
