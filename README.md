@@ -1,2 +1,60 @@
-# Lilith-in-Resident-Evil-2-PSX
-This is a romhack for Resident Evil 2 for the PS1 that replaces Claire with Lilith from Twitter
+# Lilith in Resident Evil 2 PSX
+This is a romhack for Resident Evil 2 for the PS1 that replaces Claire with Lilith (b0tster) from Twitter.
+
+![DEV 1](https://user-images.githubusercontent.com/18347973/176942806-474b0b0d-e68e-49a5-a8c2-e272f7455c8a.png)
+
+**IMPORTANT** This only works with Disk 2 of Resident Evil 2 Dual Shock Edition (US), also known as SLUS-00756. It WILL NOT WORK with any other version, nor the first disk. If you want it to work anywhere else, buy me a coffee :3
+
+## HOW TO INSTALL
+
+** 1. Download all necessary files **
+  For this you'll need:
+  - This mod! - Clone it, or just press the download button up top!
+  - A copy of the game! - You don't need me to tell you that you need to have your own disk copy of SLUS-00756 on hand and ripped onto your machine, but, to install this mod, you should have a .BIN and a .CUE file of the game on your PC. I'm not going to explain how to do this, there are a ton of good guides if you google it.
+  - A PSX Emulator! - any will do, so take your pick! If you dont know where to start, ePSXe is a classic and easy to use, but lately I've been using DuckStation. Your choice!
+  - Delta Patcher - a great patching tool that this romhack uses! It comes with the mod when you download, isn't that lovely! (if you need though, you can download it [here](https://www.romhacking.net/utilities/704/)
+  
+  Everything is downloaded! Yay!
+  
+**2. MAKE A BACKUP OF YOUR GAME**
+  Just in case something goes wrong, make a copy of the BIN and CUE files you made when you ripped your disk. Wouldn't want to do all that faff of ripping your disk again, do you?
+  
+**3. Run Delta Patcher**
+  Double click DeltaPatcherLite.exe to open up Delta Patcher!
+
+**4. put your game in the Original File box **
+  Put your SLUS-00756 BIN file into the Original File box. Double check that it is the BIN file, not the CUE file!
+ 
+**5. Put the patch into the XDelta Patch box **
+    Lilithfied_Claire.xdelta goes into the patch box!
+    
+    It should end up looking a little like this:
+    
+    ![howto1](https://user-images.githubusercontent.com/18347973/176945769-bb7f2aaf-94db-49d5-96f5-33dfad136aed.png)
+
+**6. Hit 'Apply Patch'**
+   Press the 'Apply Patch' button to apply the romhack to your game! This should take just a moment.
+   
+**7. Test your game**
+   Boot up your game in your emulator of choice, and when starting a new game, Lilith should appear instead of Claire!!!!
+   
+##I'VE FOUND A BUG!
+Oh dear. 
+Let me know in the issues tab of the github, and please be as descriptive as possible and use pictures.
+   
+##HOW TO SUPPORT
+I made this in around 15 hours of my spare time, so if you want to say thanks and show support, you can follow me on social medias!
+- Twitch: [@Lolon_Online](https://twitter.com/Lolon_Online)
+- Twitch:[@Lolon_Online](https://www.twitch.tv/lolon_online)
+
+If you would like to support further, I have a donation link. Entirely optional of course, but if you would like to see more from this romhack then money for a coffee is a good way to convince me :3
+https://streamelements.com/lolon_online/tip
+   
+##ACKKNOWLEDGEMENTS AND THANK YOUS
+
+In the future I want to break down how I did it, but I don't have enough time to do so right now, so here are people to thank!
+
+- Leo2236 for RE2MV, a very convienient tool for replacing RE models and textures!
+- Wes67 for RE2 Rebuilder - The tool that I eventually found for inserting the model back into the game and for it to run!
+- Lilith (b0tster) - For the model and for the inspiration to challenge myself to make this! Keep making awesome things ^u^
+
